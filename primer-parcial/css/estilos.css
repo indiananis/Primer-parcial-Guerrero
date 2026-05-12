@@ -1,0 +1,57 @@
+/* texto: tipografía y alignment*/
+p, li, header {
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+h1, h2, h3 {
+  font-family: "Lato", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+   margin-left: 10px;
+  margin-right: 10px;
+}
+
+.italic {
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+   margin-left: 10px;
+  margin-right: 10px;
+}
+/* fondos */
+body {
+    margin: 0px;
+    background-image: url("../img/fondo.png");
+}
+
+main {
+    background-color: #ffa366c5;
+    margin: 20px;
+    background-
+
+}
+
+footer {
+    background-color: #000066;
+    color: rgb(255, 255, 255);
+}
+
+.azul {
+    background-color: #000066;
+    color: rgb(255, 255, 255);
+}
+
+/* imagenes y video */
+
+img {
+    margin-left: 10px;
+}
+
+#video {
+    margin-left: 10px;
+}
+
