@@ -85,7 +85,7 @@ footer {
     background-color: #000066;
     color: rgb(255, 255, 255);
     padding-top: 10px;
-    padding-bottom: 10px;
+    padding-bottom: 5px;
 }
 
 .azul {
@@ -115,7 +115,7 @@ img {
     margin-right: 15px;
 }
 
-#img3 {
+.img3 {
     max-width: 20%;
     margin-left: 15px;
 }
